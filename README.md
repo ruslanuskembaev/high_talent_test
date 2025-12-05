@@ -36,7 +36,8 @@ pytest
   - `POST /questions/{id}/answers/`
   - `GET /answers/{id}`, `DELETE /answers/{id}`
 - Простой healthcheck: `GET /health`.
-
+  
+## Скриншоты (для GitHub)
 ###
 
   **Основная страница FastAPI с автогенерируемой документацией**<img width="1484" height="823" alt="image" src="https://github.com/user-attachments/assets/1f4cb225-48db-4b6a-9791-ccb0696a6fe6" />
