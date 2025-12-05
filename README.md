@@ -36,3 +36,18 @@ pytest
   - `POST /questions/{id}/answers/`
   - `GET /answers/{id}`, `DELETE /answers/{id}`
 - Простой healthcheck: `GET /health`.
+
+###
+
+  **Основная страница FastAPI с автогенерируемой документацией**<img width="1484" height="823" alt="image" src="https://github.com/user-attachments/assets/1f4cb225-48db-4b6a-9791-ccb0696a6fe6" />
+
+  ###
+  
+  **Запущенные контейнеры c логами**<img width="1110" height="859" alt="Снимок экрана 2025-12-06 в 01 31 49" src="https://github.com/user-attachments/assets/5fdfbcb9-eaac-4368-bf41-ed914d42cd8c" />
+
+  ###
+  
+  **кофигурация контейнеров**<img width="1010" height="735" alt="Снимок экрана 2025-12-06 в 01 30 11" src="https://github.com/user-attachments/assets/23f1de5a-855d-4f8b-8441-ebfdd0e93439" />
+
+
+
